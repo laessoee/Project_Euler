@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 frederik was here
+=======
+Hej
+>>>>>>> 9cbccc04d97647f473152f48ce3884f86eb547ff
