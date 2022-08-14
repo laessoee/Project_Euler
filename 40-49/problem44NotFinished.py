@@ -1,1 +1,1 @@
-print(1000**1000+999**999)
+print("Læssøe er sej")
